@@ -1,0 +1,166 @@
+{
+  "common": {
+    "cancel": "Отмена",
+    "confirm": "Подтвердить",
+    "delete": "Удалить",
+    "close": "Закрыть"
+  },
+  "toolbar": {
+    "addNode": "+ Вершина",
+    "fit": "Вписать",
+    "search": "Поиск",
+    "settings": "Настройки",
+    "treeOpen": "Открыть навигатор по графам",
+    "treeClose": "Закрыть навигатор",
+    "deleteSelected": "Удалить выделенное",
+    "deleteEdge": "Удалить связь",
+    "selectedCount": "выделено",
+    "copy": "Копировать"
+  },
+  "search": {
+    "placeholder": "Поиск по названию или тегу...",
+    "empty": "Ничего не найдено",
+    "noName": "Без имени"
+  },
+  "confirm": {
+    "deleteMultiTitle": "Удалить {n} вершин?",
+    "deleteOneTitle": "Удалить вершину?",
+    "deleteMultiMessage": "Все выбранные вершины и их связи будут удалены. Вложенные графы тоже удалятся.",
+    "deleteOneMessage": "Вершина и её связи будут удалены. Вложенный граф тоже удалится.",
+    "deleteLabel": "Удалить"
+  },
+  "properties": {
+    "emptyHint": "Выбери вершину, чтобы увидеть её свойства",
+    "nodeHeader": "Вершина",
+    "settingsTooltip": "Настройки вершины",
+    "closeTooltip": "Закрыть",
+    "titleLabel": "Название",
+    "tagsLabel": "Теги",
+    "newTagPlaceholder": "Новый тег",
+    "removeTagTooltip": "Удалить тег",
+    "propsHeader": "Свойства",
+    "addProp": "+ Свойство",
+    "emptyProps": "Пока нет свойств",
+    "removePropTooltip": "Удалить свойство",
+    "modulesHeader": "Модули",
+    "deleteNodeBtn": "Удалить вершину",
+    "deleteWithChildTitle": "Удалить вершину с подграфом?",
+    "deleteWithChildMessage": "Все вершины и связи внутри вложенного графа будут потеряны безвозвратно.",
+    "deleteWithChildLabel": "Удалить всё"
+  },
+  "nodeSettings": {
+    "title": "Настройки вершины",
+    "colorLabel": "Цвет",
+    "colorChangeBtn": "Сменить цвет",
+    "colorResetBtn": "Сбросить цвет",
+    "modulesLabel": "Модули"
+  },
+  "appSettings": {
+  "title": "Настройки",
+  "sectionAppearance": "Внешний вид",
+  "theme": "Тема",
+  "themeDark": "Тёмная",
+  "themeLight": "Светлая",
+  "fontSize": "Размер шрифта",
+  "fontSmall": "S",
+  "fontMedium": "M",
+  "fontLarge": "L",
+  "showGrid": "Показывать сетку",
+  "sectionData": "Данные",
+  "export": "Экспорт",
+  "import": "Импорт",
+  "importFromFile": "Из файла...",
+  "importError": "Ошибка импорта",
+  "sectionLanguage": "Язык",
+  "language": "Язык интерфейса",
+  "langRu": "Русский",
+  "langEn": "English",
+  "sectionAbout": "О приложении",
+  "version": "Версия",
+  "privacy": "Политика конфиденциальности",
+  "privacyOpen": "Открыть",
+  "privacyLater": "Политика — позже",
+  "toolbarOffset": "Отступ под камеру",
+"toolbarOffsetOff": "Выкл",
+"toolbarOffsetSmall": "S",
+"toolbarOffsetMedium": "M",
+"toolbarOffsetLarge": "L",
+"snapToGrid": "Привязка к сетке"
+},
+"modules": {
+  "link": "Ссылка",
+  "image": "Картинка",
+  "note": "Заметка",
+  "linkUrl": "URL",
+  "linkLabel": "Подпись",
+  "imageUpload": "Загрузить картинку",
+  "imageReplace": "Заменить",
+  "imageAlt": "Alt-текст",
+  "imageDelete": "Удалить картинку",
+  "notePlaceholder": "Текст заметки…",
+  "deadline": "Дедлайн"
+},
+"deadline": {
+  "newTitle": "Новый дедлайн",
+  "title": "Название",
+  "date": "Дата",
+  "time": "Время",
+  "imageAdd": "Добавить картинку",
+  "imageReplace": "Заменить картинку",
+  "add": "+ Дедлайн",
+  "remove": "Удалить",
+  "showGreen": "Показывать зелёные",
+  "empty": "Нет дедлайнов",
+  "hide": "Скрыть на 3 часа",
+  "confirm": "Подтвердить",
+  "addRecurring": "+ Повторяющийся",
+  "enabled": "Включено"
+},
+"nodeToolbar": {
+  "up": "Выйти в родительский граф",
+  "link": "Создать связь",
+  "linkCancel": "Отменить связывание",
+  "down": "Войти в подграф",
+  "deleteChild": "Удалить подграф",
+  "createChild": "Создать подграф",
+  "confirmDeleteTitle": "Удалить подграф?",
+  "confirmDeleteMessage": "Все вершины и связи внутри него будут потеряны безвозвратно."
+},
+"edgeToolbar": {
+  "delete": "Удалить связь"
+},
+"treeNav": {
+  "close": "Закрыть навигатор",
+  "deleteTreeTooltip": "Удалить дерево",
+  "confirmDeleteTitle": "Удалить дерево?",
+  "confirmDeleteMessage": "Все графы, вершины и связи внутри будут потеряны безвозвратно.",
+  "confirmDeleteLabel": "Удалить",
+  "rootLabel": "Главный",
+  "noName": "Без имени"
+},
+"export": {
+  "menu": "Экспорт",
+  "tree": "Дерево",
+  "graph": "Граф",
+  "node": "Вершина"
+},
+"defaults": {
+  "newNode": "Новая вершина",
+  "importedGraph": "Импортированный граф",
+  "importedNode": "Импортированная вершина",
+  "newProp": "свойство"
+},
+"palette": {
+  "title": "Создание вершин",
+  "count": "Количество",
+  "layout": "Расположение",
+  "layoutColumn": "Столбик",
+  "layoutGrid": "2 колонки",
+  "layoutCircle": "Окружность",
+  "color": "Цвет",
+  "baseNode": "Базовая вершина",
+  "confirm": "Подтвердить",
+  "noColor": "Без цвета"
+}
+  
+}

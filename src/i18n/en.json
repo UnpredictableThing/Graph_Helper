@@ -1,0 +1,165 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "close": "Close"
+  },
+  "toolbar": {
+    "addNode": "+ Node",
+    "fit": "Fit",
+    "search": "Search",
+    "settings": "Settings",
+    "treeOpen": "Open graph navigator",
+    "treeClose": "Close navigator",
+    "deleteSelected": "Delete selected",
+    "deleteEdge": "Delete edge",
+    "selectedCount": "selected",
+    "copy": "Copy"
+  },
+  "search": {
+    "placeholder": "Search by title or tag...",
+    "empty": "Nothing found",
+    "noName": "Untitled"
+  },
+  "confirm": {
+    "deleteMultiTitle": "Delete {n} nodes?",
+    "deleteOneTitle": "Delete node?",
+    "deleteMultiMessage": "All selected nodes and their edges will be deleted. Nested graphs will be deleted too.",
+    "deleteOneMessage": "Node and its edges will be deleted. Nested graph will be deleted too.",
+    "deleteLabel": "Delete"
+  },
+  "properties": {
+    "emptyHint": "Select a node to see its properties",
+    "nodeHeader": "Node",
+    "settingsTooltip": "Node settings",
+    "closeTooltip": "Close",
+    "titleLabel": "Title",
+    "tagsLabel": "Tags",
+    "newTagPlaceholder": "New tag",
+    "removeTagTooltip": "Remove tag",
+    "propsHeader": "Properties",
+    "addProp": "+ Property",
+    "emptyProps": "No properties yet",
+    "removePropTooltip": "Remove property",
+    "modulesHeader": "Modules",
+    "deleteNodeBtn": "Delete node",
+    "deleteWithChildTitle": "Delete node with nested graph?",
+    "deleteWithChildMessage": "All nodes and edges inside the nested graph will be permanently lost.",
+    "deleteWithChildLabel": "Delete all"
+  },
+  "nodeSettings": {
+    "title": "Node settings",
+    "colorLabel": "Color",
+    "colorChangeBtn": "Change color",
+    "colorResetBtn": "Reset color",
+    "modulesLabel": "Modules"
+  },
+  "appSettings": {
+  "title": "Settings",
+  "sectionAppearance": "Appearance",
+  "theme": "Theme",
+  "themeDark": "Dark",
+  "themeLight": "Light",
+  "fontSize": "Font size",
+  "fontSmall": "S",
+  "fontMedium": "M",
+  "fontLarge": "L",
+  "showGrid": "Show grid",
+  "sectionData": "Data",
+  "export": "Export",
+  "import": "Import",
+  "importFromFile": "From file...",
+  "importError": "Import error",
+  "sectionLanguage": "Language",
+  "language": "Interface language",
+  "langRu": "Русский",
+  "langEn": "English",
+  "sectionAbout": "About",
+  "version": "Version",
+  "privacy": "Privacy policy",
+  "privacyOpen": "Open",
+  "privacyLater": "Privacy — later",
+  "toolbarOffset": "Offset for camera",
+"toolbarOffsetOff": "Off",
+"toolbarOffsetSmall": "S",
+"toolbarOffsetMedium": "M",
+"toolbarOffsetLarge": "L",
+"snapToGrid": "Snap to grid"
+},
+"modules": {
+  "link": "Link",
+  "image": "Image",
+  "note": "Note",
+  "linkUrl": "URL",
+  "linkLabel": "Label",
+  "imageUpload": "Upload image",
+  "imageReplace": "Replace",
+  "imageAlt": "Alt text",
+  "imageDelete": "Delete image",
+  "notePlaceholder": "Note text…",
+  "deadline": "Deadline"
+},
+"deadline": {
+  "newTitle": "New deadline",
+  "title": "Title",
+  "date": "Date",
+  "time": "Time",
+  "imageAdd": "Add image",
+  "imageReplace": "Replace image",
+  "add": "+ Deadline",
+  "remove": "Remove",
+  "showGreen": "Show green",
+  "empty": "No deadlines",
+  "hide": "Hide for 3 hours",
+  "confirm": "Confirm",
+  "addRecurring": "+ Recurring",
+  "enabled": "Enabled"
+},
+"nodeToolbar": {
+  "up": "Go to parent graph",
+  "link": "Create link",
+  "linkCancel": "Cancel linking",
+  "down": "Enter nested graph",
+  "deleteChild": "Delete nested graph",
+  "createChild": "Create nested graph",
+  "confirmDeleteTitle": "Delete nested graph?",
+  "confirmDeleteMessage": "All nodes and edges inside will be permanently lost."
+},
+"edgeToolbar": {
+  "delete": "Delete edge"
+},
+"treeNav": {
+  "close": "Close navigator",
+  "deleteTreeTooltip": "Delete tree",
+  "confirmDeleteTitle": "Delete tree?",
+  "confirmDeleteMessage": "All graphs, nodes and edges inside will be permanently lost.",
+  "confirmDeleteLabel": "Delete",
+  "rootLabel": "Main",
+  "noName": "Untitled"
+},
+"export": {
+  "menu": "Export",
+  "tree": "Tree",
+  "graph": "Graph",
+  "node": "Node"
+},
+"defaults": {
+  "newNode": "New node",
+  "importedGraph": "Imported graph",
+  "importedNode": "Imported node",
+  "newProp": "property"
+},
+"palette": {
+  "title": "Create nodes",
+  "count": "Count",
+  "layout": "Layout",
+  "layoutColumn": "Column",
+  "layoutGrid": "2 columns",
+  "layoutCircle": "Circle",
+  "color": "Color",
+  "baseNode": "Base node",
+  "confirm": "Confirm",
+  "noColor": "No color"
+}
+}
